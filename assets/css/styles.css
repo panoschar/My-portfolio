@@ -246,8 +246,8 @@ img {
 .button {
   display: inline-block;
   background-color: var(--first-color);
-  color: #fff;
-  padding: .75rem 2.5rem;
+  color: rgb(0, 0, 0);
+  padding: .70rem 2rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
   transition: .3s;
@@ -283,7 +283,7 @@ img {
 }
 
 .skills__subtitle {
-  margin-bottom: var(--mb-2);
+  margin-bottom: 40px;
 }
 
 .skills__text {
